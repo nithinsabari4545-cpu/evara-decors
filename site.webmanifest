@@ -1,0 +1,17 @@
+{
+  "name": "Evara Decors - Luxury Wedding Styling",
+  "short_name": "Evara Decors",
+  "description": "Turning Celebrations Into Timeless Memories. Premier wedding decorators in Hosur, Tamil Nadu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#800A1F",
+  "icons": [
+    {
+      "src": "assets/icons/lotus-ornament.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

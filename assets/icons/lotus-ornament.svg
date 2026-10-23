@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <path d="M50 15 C45 35, 30 45, 50 82 C70 45, 55 35, 50 15 Z" fill="url(#goldGrad)" opacity="0.95"/>
+  <path d="M50 82 C30 70, 15 50, 22 35 C32 45, 42 60, 50 82 Z" fill="url(#goldGrad)" opacity="0.8"/>
+  <path d="M50 82 C70 70, 85 50, 78 35 C68 45, 58 60, 50 82 Z" fill="url(#goldGrad)" opacity="0.8"/>
+  <path d="M50 82 C20 75, 5 62, 10 48 C20 54, 35 68, 50 82 Z" fill="url(#goldGrad)" opacity="0.6"/>
+  <path d="M50 82 C80 75, 95 62, 90 48 C80 54, 65 68, 50 82 Z" fill="url(#goldGrad)" opacity="0.6"/>
+  <circle cx="50" cy="85" r="3" fill="#D4AF37"/>
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ECC875"/>
+      <stop offset="50%" stop-color="#C59838"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+  </defs>
+</svg>
